@@ -14,4 +14,6 @@ Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
 
 Updated by CJPai 2024-06-19
 
+Step01: to Azure DevOps(Failed)
+
 Step01: to Azure DevOps
